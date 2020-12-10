@@ -1,0 +1,14 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: A482-C3AF
+
+ Directorio de C:\Users\aandres\Desktop\Ejemplojenkins
+
+10/12/2020  12:14    <DIR>          .
+10/12/2020  12:14    <DIR>          ..
+10/12/2020  11:55    <DIR>          .idea
+10/12/2020  10:31               433 1234.iml
+10/12/2020  10:35    <DIR>          out
+10/12/2020  10:44    <DIR>          src
+10/12/2020  12:14                 0 test.txt
+               2 archivos            433 bytes
+               5 dirs  378.865.569.792 bytes libres
